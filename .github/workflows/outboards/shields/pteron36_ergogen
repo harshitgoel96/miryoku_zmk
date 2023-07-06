@@ -1,7 +1,7 @@
 # Copyright 2021 Manna Harbour
 # https://github.com/manna-harbour/miryoku
 
-outboard_repository=harshitgoel96/zmk_config_ptron36_ergogen
+outboard_repository=harshitgoel96/zmk_config_pteron36_ergogen
 outboard_ref=master
-outboard_from=config/boards/shields/ptron36_ergogen
-outboard_to=boards/shields/ptron36_ergogen
+outboard_from=config/boards/shields/pteron36_ergogen
+outboard_to=boards/shields/pteron36_ergogen
